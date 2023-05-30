@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# To Crawler List
+*.txt
+
 # C extensions
 *.so
 
